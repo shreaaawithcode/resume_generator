@@ -32,7 +32,10 @@ A web-based Resume Builder System that allows users to create, manage, and gener
 4. Run `localhost/project-folder`
 
 ## 📸 Screenshots
-(Add your 3 screenshots here)
+<img width="960" height="540" alt="dashboard" src="https://github.com/user-attachments/assets/7cf06ed3-93d1-4d16-aad2-ad69a11c0fff" />
+<img width="960" height="540" alt="details" src="https://github.com/user-attachments/assets/b2b30c0a-4dc4-4765-b26e-9e31fb711651" />
+<img width="960" height="540" alt="double-column-CV" src="https://github.com/user-attachments/assets/3d4abbf0-7f47-490b-94a9-b21a2c64878e" />
+
 
 ## 📄 Documentation
 - Project Report
